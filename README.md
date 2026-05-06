@@ -1,4 +1,4 @@
-# Polymarket-trading-bot-python-V2
+# Polymarket-arbitrage-trading-bot-python
 Polymarket Trading Bot • 5-Min Market Bot • Fully Automated System
 A high-performance, automated trading system for Polymarket prediction markets — now fully upgraded for Polymarket V2.
 Built in Python, the system leverages real-time WebSocket data, gasless L2 execution, and an advanced risk-management framework optimized for short-term and high-frequency trading environments.
