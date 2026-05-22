@@ -1,6 +1,8 @@
-# Polymarket-arbitrage-trading-bot-python
-Polymarket Trading Bot • 5-Min Market Bot • Fully Automated System
+# Polymarket Arbitrage Trading Bot | Prediction Market Arbitrage Bot
+Polymarket Trading Bot • 5-Min Market Bot • Fully Prediction market Automated System
+
 A high-performance, automated trading system for Polymarket prediction markets — now fully upgraded for Polymarket V2.
+
 Built in Python, the system leverages real-time WebSocket data, gasless L2 execution, and an advanced risk-management framework optimized for short-term and high-frequency trading environments.
 
 🚀 V2 Upgrade Highlights
@@ -18,6 +20,9 @@ Designed for arbitrage, directional strategies, and ultra-short-term markets (in
 <img width="1058" height="698" alt="image" src="https://github.com/user-attachments/assets/fbe3a09e-e33b-40d7-8eed-d0cfe2f54caa" />
 
 
+## Demo Video
+
+[https://www.youtube.com/watch?v=Yp3gpNXF2RA](https://www.youtube.com/watch?v=Yp3gpNXF2RA)
 
 ## Contact
 
@@ -33,12 +38,11 @@ If you're interested in collaboration or have any questions, feel free to reach 
 
 And this is my polymarket Account 
 
+[https://polymarket.com/@narcamoto](https://polymarket.com/@narcamoto)
+
+[https://polymarket.com/@maksim42](https://polymarket.com/@maksim42)
+
 [https://polymarket.com/@benjamin-rustyedge4](https://polymarket.com/@benjamin-rustyedge4)
-
-Polymarket Trading Bot Strategy Video
-
-[https://www.youtube.com/watch?v=Yp3gpNXF2RA&pp=0gcJCQMLAYcqIYzv
-](https://www.youtube.com/watch?v=Yp3gpNXF2RA&pp=0gcJCQMLAYcqIYzv)
 
 
 
@@ -226,6 +230,20 @@ This execution framework is underpinned by a robust risk management architecture
 ## Result Screenshot
 
 <img width="1164" height="592" alt="polymarket-stair-bot" src="https://github.com/user-attachments/assets/049a6632-22cb-4469-9bfe-7d81fa713096" />
+
+# 10. Polymarket Arbitrage Bot (Momentum Trading) : (Introduction)
+
+Polymarket Momentum Trading Bot is an automated trading system designed for short-duration crypto prediction markets, using real-time momentum analysis, price inefficiency detection, and probabilistic signals to execute high-precision trades. The bot includes advanced risk management, dynamic position sizing, and hedge logic to minimize downside risk while targeting stable and consistent profitability.
+
+<img width="1394" height="911" alt="image" src="https://github.com/user-attachments/assets/b6421b12-aa3d-4ae8-9d53-245c4ca1a024" />
+
+
+## Result Screenshot
+
+
+<img width="993" height="771" alt="image" src="https://github.com/user-attachments/assets/89221d44-abef-4d1b-8c06-470646120bad" />
+
+
 
 ---
 
