@@ -33,6 +33,45 @@ Designed for arbitrage, directional strategies, and ultra-short-term markets (in
 
 [https://www.youtube.com/watch?v=Yp3gpNXF2RA](https://www.youtube.com/watch?v=Yp3gpNXF2RA)
 
+
+## Articles related to Polymarket Trading Bots
+Throughout this journey, I've documented much of what I've learned and built, with the goal of helping developers, traders, researchers, and anyone interested in prediction markets understand how these systems work in practice.
+
+My content covers a wide range of topics, including:
+
+📈 Polymarket trading strategies and market analysis
+
+🤖 Step-by-step tutorials for building automated Polymarket trading bots
+
+🐍 Python-based implementations and code examples
+
+⚡ Real-time data collection, monitoring, and execution systems
+
+📊 Statistical and quantitative approaches to market opportunities
+
+🧠 AI-assisted trading ideas and automation workflows
+
+🛡️ Risk management techniques and portfolio considerations
+
+🔍 Research on market inefficiencies, pricing behavior, and trading opportunities
+
+🏗️ Architecture design for scalable trading infrastructure
+
+💡 Experimental ideas, trading frameworks, and open-source tools that others can build upon
+
+Whether you're a beginner trying to understand how prediction market bots work, a Python developer looking for implementation examples, or an experienced trader exploring automation, you'll find practical resources, code, tutorials, and detailed explanations that go beyond theory.
+
+📚 Explore the Content
+
+DEV Community:
+[https://dev.to/benjamin_cup](https://dev.to/benjamin_cup)
+
+Medium:
+[https://medium.com/@benjamin.bigdev](https://medium.com/@benjamin.bigdev)
+
+Substack:
+[https://substack.com/@benjamincup](https://substack.com/@benjamincup)
+
 ## Contact
 
 I have extensive experience developing automated trading bots for Polymarket, having built several profitable bots and continuously updated them with new strategies. I can build customized trading solutions tailored to your specific needs, or share insights, strategies, and best practices gained from my practical development experience.
