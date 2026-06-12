@@ -34,7 +34,7 @@ Designed for arbitrage, directional strategies, and ultra-short-term markets (in
 [https://www.youtube.com/watch?v=Yp3gpNXF2RA](https://www.youtube.com/watch?v=Yp3gpNXF2RA)
 
 
-## Articles related to Polymarket Trading Bots
+## Documentation
 Throughout this journey, I've documented much of what I've learned and built, with the goal of helping developers, traders, researchers, and anyone interested in prediction markets understand how these systems work in practice.
 
 My content covers a wide range of topics, including:
