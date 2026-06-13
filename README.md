@@ -363,8 +363,10 @@ This project is part of a larger ecosystem explaining how a **Polymarket trading
     - [Polymarket Trading Bot Strategy Story](https://medium.com/@benjamin.bigdev/polymarket-trading-bot-strategy-story-bd2abc253207)
   
 - ⚙️ **How to build a Polymarket trading bot (Dev.to)**  
-  Full developer guide covering setup, API integration, and execution flow.  
-
+  Full developer guide covering setup, API integration, and execution flow.
+  
+    - [Polymarket Trading Bot Tutorial: Architecture, Strategy, and Implementation](https://dev.to/benjamin_cup/polymarket-trading-bot-tutorial-architecture-strategy-and-implementation-3f8c)
+ 
     - [Implementing Adaptive Order Routing in Python for a Polymarket Trading bot: Advanced Market-Making and Execution Strategies](https://dev.to/benjamin_cup/implementing-adaptive-order-routing-in-python-for-a-polymarket-trading-bot-advanced-market-making-35pi)
  
     - [Building a Liquidity Monitoring Engine for a Polymarket Trading bot: Architecture, Strategy, and Real-Time Market Intelligence](https://dev.to/benjamin_cup/building-a-liquidity-monitoring-engine-for-a-polymarket-trading-bot-architecture-strategy-and-2nko)
