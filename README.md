@@ -362,7 +362,38 @@ This project is part of a larger ecosystem explaining how a **Polymarket trading
  
     - [Polymarket Trading Bot Strategy Story](https://medium.com/@benjamin.bigdev/polymarket-trading-bot-strategy-story-bd2abc253207)
   
+- ⚙️ **How to build a Polymarket trading bot (Dev.to)**  
+  Full developer guide covering setup, API integration, and execution flow.  
 
+    - [Implementing Adaptive Order Routing in Python for a Polymarket Trading bot: Advanced Market-Making and Execution Strategies](https://dev.to/benjamin_cup/implementing-adaptive-order-routing-in-python-for-a-polymarket-trading-bot-advanced-market-making-35pi)
+ 
+    - [Building a Liquidity Monitoring Engine for a Polymarket Trading bot: Architecture, Strategy, and Real-Time Market Intelligence](https://dev.to/benjamin_cup/building-a-liquidity-monitoring-engine-for-a-polymarket-trading-bot-architecture-strategy-and-2nko)
+ 
+    - [Building a Polymarket Trading bot in Python: Simulating Order Book Behavior and Automating Prediction Market Trading](https://dev.to/benjamin_cup/building-a-polymarket-trading-bot-in-python-simulating-order-book-behavior-and-automating-150j)
+ 
+    - [Creating a Latency Monitoring Dashboard for Polymarket Trading Bots](https://dev.to/benjamin_cup/creating-a-latency-monitoring-dashboard-for-polymarket-trading-bots-36a6)
+ 
+    - [Building a Polymarket Trading Bot Framework in Python](https://dev.to/benjamin_cup/building-a-polymarket-trading-bot-framework-in-python-42mm)
+ 
+    - [Optimizing WebSocket Processing for High-Speed Market Data with Polymarket CLOB](https://dev.to/benjamin_cup/optimizing-websocket-processing-for-high-speed-market-data-with-polymarket-clob-20dg)
+ 
+    - [Designing a Low-Latency Trading Architecture for Polymarket CLOB V2](https://dev.to/benjamin_cup/designing-a-low-latency-trading-architecture-for-polymarket-clob-v2-1943)
+ 
+    - [How Polymarket Orders Actually Execute in CLOB V2: A Developer's Deep Dive](https://dev.to/benjamin_cup/how-polymarket-orders-actually-execute-in-clob-v2-a-developers-deep-dive-e6e)
+ 
+    - [How to use API to build a Polymarket Trading Bot in Python](https://dev.to/benjamin_cup/how-to-use-api-to-build-a-polymarket-trading-bot-in-python-38h3)
+ 
+    - [Live Lessons From Running a 5-Minute Polymarket Crypto Bot](https://dev.to/benjamin_cup/live-lessons-from-running-a-5-minute-polymarket-crypto-bot-273m)
+ 
+    - [Building a High-Frequency Event-Driven Trading Bot for Polymarket](https://dev.to/benjamin_cup/building-a-high-frequency-event-driven-trading-bot-for-polymarket-3lnh)
+ 
+    - [Polymarket Trading Bots : Collaborative Momentum Agents](https://dev.to/benjamin_cup/polymarket-trading-bots-collaborative-momentum-agents-1lhe)
+ 
+    - [Signal-Based Crypto Polymarket Trading Bots: Why Manual Execution Still Outperforms Full Automation](https://dev.to/benjamin_cup/signal-based-crypto-polymarket-trading-bots-why-manual-execution-still-outperforms-full-automation-2l3j)
+ 
+    - [Building a Polymarket Trading Bot for Short-Term Reversal Events](https://dev.to/benjamin_cup/building-a-polymarket-trading-bot-for-short-term-reversal-events-5eib)
+ 
+    - [Building a Stable 15-Minute Trading Bot for Polymarket Crypto Up/Down Markets](https://dev.to/benjamin_cup/building-a-stable-15-minute-trading-bot-for-polymarket-crypto-updown-markets-12ie)
 
 
 ---
