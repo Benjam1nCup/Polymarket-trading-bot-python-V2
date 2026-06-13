@@ -324,6 +324,48 @@ This repository contains multiple automated trading strategies for Polymarket pr
 
 
 ---
+## 📚 Polymarket Trading Bot – Articles & Technical Guides
+
+This project is part of a larger ecosystem explaining how a **Polymarket trading bot** works, including strategy, architecture, and implementation.
+
+- 🧠 **Polymarket trading bot strategy & system design (Medium)**  
+  Deep dive into arbitrage logic, market selection, and bot architecture.  
+    - [Unlock Risk-Free Profits on Polymarket: The Secret Power of Complement Arbitrage](https://medium.com/@benjamin.bigdev/unlock-risk-free-profits-on-polymarket-the-secret-power-of-complement-arbitrage-4de0cf2e6ffb)
+
+    - [Unlock Hidden Edges on Polymarket: Imbalance Arbitrage — Buy the Cheap Side, No Matter Which](https://medium.com/@benjamin.bigdev/unlock-hidden-edges-on-polymarket-imbalance-arbitrage-buy-the-cheap-side-no-matter-which-55194406cb0a)
+ 
+    - [Polymarket Trading Bot : Multi-Crypto Polymarket Strategies](https://medium.com/@benjamin.bigdev/polymarket-trading-bot-multi-crypto-polymarket-strategies-1aafa574b7c3)
+ 
+    - [The Polymarket 5-Minute Crypto Bot: Grinding High-Probability Edges for Consistent Profits](https://medium.com/@benjamin.bigdev/the-polymarket-5-minute-crypto-bot-grinding-high-probability-edges-for-consistent-profits-578ec553f1a2)
+ 
+    - [The Ultimate Guide to Building a Profitable 5-Minute Polymarket Crypto Trading Bot (March 2026 Edition)](https://medium.com/@benjamin.bigdev/the-ultimate-guide-to-building-a-profitable-5-minute-polymarket-crypto-trading-bot-march-2026-5198c825440b)
+ 
+    - [Polymarket Trading Bot: Crypto Market Strategies and Inflection Point Analysis](https://medium.com/@benjamin.bigdev/polymarket-trading-bot-crypto-market-strategies-and-inflection-point-analysis-5eb359ab3007)
+ 
+    - [The Top Strategy for Polymarket Trading in Crypto Markets (2026 Edition)](https://medium.com/@benjamin.bigdev/the-top-strategy-for-polymarket-trading-in-crypto-markets-2026-edition-5056f21a2711)
+ 
+    - [7 Arbitrage Strategies That Consistently Work on Prediction Markets Like Polymarket](https://medium.com/@benjamin.bigdev/7-arbitrage-strategies-that-consistently-work-on-prediction-markets-like-polymarket-18947919a43b)
+ 
+    - [Polymarket trading bot : Mountain of Dual-side arbitrage small profit](https://medium.com/@benjamin.bigdev/polymarket-trading-bot-mountain-of-dual-side-arbitrage-small-profit-2a88db0e83c3)
+ 
+    - [Risk Management & Hedging in a Polymarket Dual-Side Arbitrage Bot](https://medium.com/@benjamin.bigdev/risk-management-hedging-in-a-polymarket-dual-side-arbitrage-bot-ddad6287af83)
+ 
+    - [Cross-Exchange Arbitrage Between Prediction Markets](https://medium.com/@benjamin.bigdev/cross-exchange-arbitrage-between-prediction-markets-cf423b8da279)
+ 
+    - [Designing a 5-Minute Crypto Prediction Bot on Polymarket Using Cascade Trailing Logic](https://medium.com/@benjamin.bigdev/designing-a-5-minute-crypto-prediction-bot-on-polymarket-using-cascade-trailing-logic-6915e0e235b3)
+ 
+    - [Latency Arbitrage in 15-Minute Crypto Markets: Building a Polymarket Trading Edge (2026)](https://medium.com/@benjamin.bigdev/latency-arbitrage-in-15-minute-crypto-markets-building-a-polymarket-trading-edge-2026-b6529832d789)
+ 
+    - [Building a Polymarket Trading Bot Based on Bitcoin-Altcoin Correlation](https://medium.com/@benjamin.bigdev/building-a-polymarket-trading-bot-based-on-bitcoin-altcoin-correlation-59948625e954)
+ 
+    - [Polymarket Trading Bot -special timezone Bot](https://medium.com/@benjamin.bigdev/polymarket-trading-bot-special-timezone-bot-b7fde896a03f)
+ 
+    - [Polymarket Trading Bot Strategy Story](https://medium.com/@benjamin.bigdev/polymarket-trading-bot-strategy-story-bd2abc253207)
+  
+
+
+
+---
 ## SEO Keywords
 
 Polymarket trading bot, Polymarket arbitrage bot, AI trading bot, prediction market bot, crypto arbitrage bot, automated trading system, algorithmic trading Python, Polymarket API Python, market-making bot, OpenAI trading bot, Polymarket trading Strategy, automated Trading System Architecture
