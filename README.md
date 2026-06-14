@@ -364,6 +364,8 @@ This project is part of a larger ecosystem explaining how a **Polymarket trading
   
 - ⚙️ **How to build a Polymarket trading bot (Dev.to)**  
   Full developer guide covering setup, API integration, and execution flow.
+
+    - [How to Build a Polymarket Trading bot: 5-Minute Crypto Up/Down Market Trading Bot in Python](https://dev.to/benjamin_cup/how-to-build-a-polymarket-trading-bot-5-minute-crypto-updown-market-trading-bot-in-python-4ck3)
   
     - [Polymarket Trading Bot Tutorial: Architecture, Strategy, and Implementation](https://dev.to/benjamin_cup/polymarket-trading-bot-tutorial-architecture-strategy-and-implementation-3f8c)
  
