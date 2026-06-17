@@ -329,7 +329,9 @@ This repository contains multiple automated trading strategies for Polymarket pr
 This project is part of a larger ecosystem explaining how a **Polymarket trading bot** works, including strategy, architecture, and implementation.
 
 - 🧠 **Polymarket trading bot strategy & system design (Medium)**  
-  Deep dive into arbitrage logic, market selection, and bot architecture.  
+  Deep dive into arbitrage logic, market selection, and bot architecture.
+    - [Polymarket Trading bot: Building a 5-Minute BTC Market Momentum Strategy with Python](https://medium.com/@benjamin.bigdev/polymarket-trading-bot-building-a-5-minute-btc-market-momentum-strategy-with-python-7a77c7a4b0d8)
+    
     - [Unlock Risk-Free Profits on Polymarket: The Secret Power of Complement Arbitrage](https://medium.com/@benjamin.bigdev/unlock-risk-free-profits-on-polymarket-the-secret-power-of-complement-arbitrage-4de0cf2e6ffb)
 
     - [Unlock Hidden Edges on Polymarket: Imbalance Arbitrage — Buy the Cheap Side, No Matter Which](https://medium.com/@benjamin.bigdev/unlock-hidden-edges-on-polymarket-imbalance-arbitrage-buy-the-cheap-side-no-matter-which-55194406cb0a)
@@ -364,6 +366,8 @@ This project is part of a larger ecosystem explaining how a **Polymarket trading
   
 - ⚙️ **How to build a Polymarket trading bot (Dev.to)**  
   Full developer guide covering setup, API integration, and execution flow.
+
+    - [How to Build a Polymarket Trading Bot: Important Problems Most Developers Discover Too Late](https://dev.to/benjamin_cup/how-to-build-a-polymarket-trading-bot-important-problems-most-developers-discover-too-late-2jg5)
 
     - [How to Build a Polymarket Trading bot: 5-Minute Crypto Up/Down Market Trading Bot in Python](https://dev.to/benjamin_cup/how-to-build-a-polymarket-trading-bot-5-minute-crypto-updown-market-trading-bot-in-python-4ck3)
   
