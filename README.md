@@ -330,6 +330,8 @@ This project is part of a larger ecosystem explaining how a **Polymarket trading
 
 - 🧠 **Polymarket trading bot strategy & system design (Medium)**  
   Deep dive into arbitrage logic, market selection, and bot architecture.
+    - [Polymarket Beginner’s Guide: Get Started in 3 Easy Steps and Follow the “Smart Money”](https://medium.com/@benjamin.bigdev/polymarket-beginners-guide-get-started-in-3-easy-steps-and-follow-the-smart-money-2d86bf9591ab)
+    
     - [Polymarket Trading bot: Building a 5-Minute BTC Market Momentum Strategy with Python](https://medium.com/@benjamin.bigdev/polymarket-trading-bot-building-a-5-minute-btc-market-momentum-strategy-with-python-7a77c7a4b0d8)
     
     - [Unlock Risk-Free Profits on Polymarket: The Secret Power of Complement Arbitrage](https://medium.com/@benjamin.bigdev/unlock-risk-free-profits-on-polymarket-the-secret-power-of-complement-arbitrage-4de0cf2e6ffb)
@@ -366,6 +368,8 @@ This project is part of a larger ecosystem explaining how a **Polymarket trading
   
 - ⚙️ **How to build a Polymarket trading bot (Dev.to)**  
   Full developer guide covering setup, API integration, and execution flow.
+
+    - [6 Main Types of Trading Bots on Up/Down Markets on Polymarket](https://dev.to/benjamin_cup/6-main-types-of-trading-bots-on-updown-markets-on-polymarket-4lpj)
 
     - [How to Build a Polymarket Trading Bot: Important Problems Most Developers Discover Too Late](https://dev.to/benjamin_cup/how-to-build-a-polymarket-trading-bot-important-problems-most-developers-discover-too-late-2jg5)
 
