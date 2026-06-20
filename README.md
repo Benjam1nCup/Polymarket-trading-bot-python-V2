@@ -330,6 +330,9 @@ This project is part of a larger ecosystem explaining how a **Polymarket trading
 
 - 🧠 **Polymarket trading bot strategy & system design (Medium)**  
   Deep dive into arbitrage logic, market selection, and bot architecture.
+
+    - [What 4 Weeks of Running a Polymarket Momentum Bot Taught Me About Prediction Markets](https://medium.com/@benjamin.bigdev/polymarektwhat-4-weeks-of-running-a-polymarket-momentum-bot-taught-me-about-prediction-markets-0f350bb3fc00?postPublishedType=repub)
+  
     - [Polymarket Beginner’s Guide: Get Started in 3 Easy Steps and Follow the “Smart Money”](https://medium.com/@benjamin.bigdev/polymarket-beginners-guide-get-started-in-3-easy-steps-and-follow-the-smart-money-2d86bf9591ab)
     
     - [Polymarket Trading bot: Building a 5-Minute BTC Market Momentum Strategy with Python](https://medium.com/@benjamin.bigdev/polymarket-trading-bot-building-a-5-minute-btc-market-momentum-strategy-with-python-7a77c7a4b0d8)
@@ -368,6 +371,8 @@ This project is part of a larger ecosystem explaining how a **Polymarket trading
   
 - ⚙️ **How to build a Polymarket trading bot (Dev.to)**  
   Full developer guide covering setup, API integration, and execution flow.
+
+    - [How to Build a Polymarket Trading Bot: 5-Minute Market Momentum Trading Bot (Python Deep Dive)](https://dev.to/benjamin_cup/how-to-build-a-polymarket-trading-bot-5-minute-market-momentum-trading-bot-python-deep-dive-1bdm)
 
     - [6 Main Types of Trading Bots on Up/Down Markets on Polymarket](https://dev.to/benjamin_cup/6-main-types-of-trading-bots-on-updown-markets-on-polymarket-4lpj)
 
