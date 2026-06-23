@@ -331,6 +331,8 @@ This project is part of a larger ecosystem explaining how a **Polymarket trading
 - 🧠 **Polymarket trading bot strategy & system design (Medium)**  
   Deep dive into arbitrage logic, market selection, and bot architecture.
 
+    - [How I Built a Profitable Polymarket Trading bot in Python: Strategy, Risk Management, and Real-World Lessons](https://medium.com/@benjamin.bigdev/how-i-built-a-profitable-polymarket-trading-bot-in-python-strategy-risk-management-and-2499711a2f23)
+
     - [What 4 Weeks of Running a Polymarket Momentum Bot Taught Me About Prediction Markets](https://medium.com/@benjamin.bigdev/polymarektwhat-4-weeks-of-running-a-polymarket-momentum-bot-taught-me-about-prediction-markets-0f350bb3fc00?postPublishedType=repub)
   
     - [Polymarket Beginner’s Guide: Get Started in 3 Easy Steps and Follow the “Smart Money”](https://medium.com/@benjamin.bigdev/polymarket-beginners-guide-get-started-in-3-easy-steps-and-follow-the-smart-money-2d86bf9591ab)
@@ -371,6 +373,8 @@ This project is part of a larger ecosystem explaining how a **Polymarket trading
   
 - ⚙️ **How to build a Polymarket trading bot (Dev.to)**  
   Full developer guide covering setup, API integration, and execution flow.
+
+    - [Polymarket Trading bot: Building a Professional Prediction Market Trading System in Python](https://dev.to/benjamin_cup/polymarket-trading-bot-building-a-professional-prediction-market-trading-system-in-python-4fjd)
 
     - [How to Build a Polymarket Trading Bot: 5-Minute Market Momentum Trading Bot (Python Deep Dive)](https://dev.to/benjamin_cup/how-to-build-a-polymarket-trading-bot-5-minute-market-momentum-trading-bot-python-deep-dive-1bdm)
 
