@@ -4,9 +4,7 @@
 
 An open-source and Strong Strategy collection of Polymarket trading bot and arbitrage bot in Python for high-performance automated trading on polymarket crypto 5min markets.
 
-<img width="1536" height="1024" alt="Polymarket Trading Bot Dashboard" src="https://github.com/user-attachments/assets/bed7ca12-6f10-46d5-8a55-3460e1f06a41" />
-
-
+<img width="1537" height="1023" alt="Polymarket benjamincup bot dashboard" src="https://github.com/user-attachments/assets/bcf5015e-c001-4161-ba0e-21195bc1dba2" />
 
 
 ## Features
@@ -133,10 +131,31 @@ https://github.com/user-attachments/assets/b038aa3b-e42b-4f72-ac5d-a130cdb56a9f
 <img width="777" height="534" alt="Polymarket-end-cycle-sniper-trading-bot" src="https://github.com/user-attachments/assets/fb9b61f2-e68a-43be-a595-50cb2b656713" />
 
 <img width="800" height="901" alt="Polymarket-end-cycle-sniper-trading-bot" src="https://github.com/user-attachments/assets/06c67109-5400-4183-b7c4-6a043df8f1e5" />
+---
+
+## 2. Polymarket BTC ETH Hug Bot
+
+Polymarket BTC & ETH Hug Bot is a signal-driven trading system designed for short-duration Polymarket prediction markets. The bot continuously monitors and analyzes BTC and ETH market momentum, order book activity, and proprietary on-chain signals to identify high-conviction directional opportunities when both assets exhibit strong synchronized movement. Once a favorable setup is detected, it determines the most probable winning outcome and executes optimized order placement strategies to efficiently acquire positions while minimizing market impact.
+
+The system combines real-time market monitoring, signal analysis, and automated execution to capture recurring market inefficiencies. Historical testing and live observations have demonstrated a consistently high win rate, making the bot a specialized framework for researching and trading momentum-driven prediction market opportunities.
+
+<img width="1536" height="1024" alt="Polymarket-BTC-ETH-HUG-Bot" src="https://github.com/user-attachments/assets/ebbc4c31-0587-4b25-889f-39b8f8825ed1" />
+
+### Result Screenshort
+
+<img width="712" height="766" alt="btc-eth-hug-bot" src="https://github.com/user-attachments/assets/9fe25d3e-dea3-442b-abea-d06ab4763709" />
+
+
+<img width="702" height="775" alt="btc-eth-hug-bot-2" src="https://github.com/user-attachments/assets/74264fcf-dd24-420e-9980-04d53dc00f57" />
+
+
+
+
+
 
 ---
 
-## 2. Polymarket BTC 5m Price field Bot
+## 3. Polymarket BTC 5m Price field Bot
 
 A trading bot for Polymarket’s 5-minute BTC markets that exploits the relationship between time remaining and price deviation to identify high-probability opportunities. It uses position splitting and staged exits to 
 
@@ -159,7 +178,7 @@ systematically capture inefficiencies, achieving a consistently high win rate un
 
 ---
 
-## 3. Polymarket Sticky Trading Bot
+## 4. Polymarket Sticky Trading Bot
 
 Polymarket Sticky Trading Bot is an automated trading system that exploits short-term correlation between Bitcoin and related crypto prediction markets on Polymarket. It monitors BTC price momentum and high-confidence 
 
@@ -182,7 +201,7 @@ market signals (e.g., YES > 0.9) to identify lagging markets, executing trades t
 
 ---
 
-## 4. Polymarket Copy Trading Bot (Introduction) 
+## 5. Polymarket Copy Trading Bot (Introduction) 
 
 An open-source bot that automatically copies trades from top Polymarket traders to your wallet—so you can follow proven strategies 24/7 without watching the market yourself.
 
@@ -196,7 +215,7 @@ https://github.com/user-attachments/assets/1bf1babc-8aa6-4be0-b1ec-4e193f52b965
 
 ---
 
-## 5. Polymarket Arbitrage Bot (Lost token sniper) : (Introduction)
+## 6. Polymarket Arbitrage Bot (Lost token sniper) : (Introduction)
 
 Polymarket Arbitrage Lost token Sniper bot automates a trading workflow on Polymarket short-interval markets (e.g., BTC/ETH/SOL/XRP 5-minute “up/down” epochs). It allocates capital into YES and NO positions, monitors order books in real time, and strategically exits the predicted losing side token before market resolution to optimize returns. The core edge lies in the model’s ability to accurately identify the losing token, enabling consistent profit capture when combined prices exceed $1.
 
@@ -212,7 +231,7 @@ Polymarket Arbitrage Lost token Sniper bot automates a trading workflow on Polym
 
 ---
 
-## 6. Polymarket Arbitrage Bot (101 cents Sniper) : (Introduction)
+## 7. Polymarket Arbitrage Bot (101 cents Sniper) : (Introduction)
 
 Polymarket Arbitrage 101 Bot is a professional Polymarket liquidity maker bot designed for short-interval (e.g., 5-minute) binary markets, automating the full cycle of splitting USDC into YES/NO tokens, placing balanced limit orders, and dynamically managing positions in real time. It targets a consistent edge by structuring trades so each YES/NO pair aims to return a combined value of 1.01 (101 cents) per cycle, while applying adaptive adjustments and risk controls as market conditions evolve. Built for multi-chain compatibility and continuous 24/7 operation, it supports live, dry-run, and paper trading modes for both production use and safe strategy testing.
 <img width="1124" height="742" alt="Polymarket-trading-bot-arbitrage-101" src="https://github.com/user-attachments/assets/73737f09-ba30-4955-85a2-057e84b0ef3d" />
@@ -233,7 +252,7 @@ If you invest $100, you can earn average $190 to $220 per day on one chain, and 
 
 ---
 
-## 7. Polymarket Arbitrage Bot (Dual-side) : (Introduction)
+## 8. Polymarket Arbitrage Bot (Dual-side) : (Introduction)
 This Polymarket trading bot explores an automated volatility and probability arbitrage bot designed to identify pricing inefficiencies in prediction markets. Instead of predicting outcomes, the system exploits mispriced probabilities, market imbalances, and short-term volatility using quantitative models and automation. By combining high-frequency execution with strong risk management and hedging, the bot aims to capture small statistical edges and compound them over large trade volumes. 🚀
 
 
@@ -246,7 +265,7 @@ This Polymarket trading bot explores an automated volatility and probability arb
 
 ---
 
-## 8. Polymarket Arbitrage Bot (Ladder Trading) : (Introduction)
+## 9. Polymarket Arbitrage Bot (Ladder Trading) : (Introduction)
 This bot does not speculate on market direction.
 Instead, it captures spread by selling both YES and NO outcome tokens at prices whose combined value exceeds $1.
 The strategy focuses on market making, not directional trading.
@@ -261,7 +280,7 @@ https://github.com/user-attachments/assets/7ba03ed4-f00d-4564-bf78-67c5159bb5c3
 
 <img width="1803" height="861" alt="Polymarket Arbitrage Bot Ladder " src="https://github.com/user-attachments/assets/6b9c55c5-f822-46ff-b956-ec9939736653" />
 
-# 9. Polymarket Arbitrage Bot (Stair Trading) : (Introduction)
+# 10. Polymarket Arbitrage Bot (Stair Trading) : (Introduction)
 The Stair Arbitrage Bot is designed to optimize position unwinding within Polymarket’s short-duration markets, with a particular focus on the final phase of each 5-minute interval. As markets approach resolution, the system executes a disciplined and liquidity-aware exit strategy across both YES and NO positions.
 
 Execution begins with the selective liquidation of the side offering the most favorable order book conditions, leveraging real-time depth and pricing signals to minimize market impact. Following this initial reduction in exposure, the bot systematically unwinds the opposing position—either through staged, price-sensitive increments or via a single coordinated execution—utilizing its proprietary Stair-based logic.
@@ -275,7 +294,7 @@ This execution framework is underpinned by a robust risk management architecture
 
 <img width="1164" height="592" alt="Polymarket Arbitrage Bot Stair Trading" src="https://github.com/user-attachments/assets/049a6632-22cb-4469-9bfe-7d81fa713096" />
 
-## 10. Polymarket Arbitrage Bot (Momentum Trading) : (Introduction)
+## 11. Polymarket Arbitrage Bot (Momentum Trading) : (Introduction)
 
 Polymarket Momentum Trading Bot is an automated trading system designed for short-duration crypto prediction markets, using real-time momentum analysis, price inefficiency detection, and probabilistic signals to execute high-precision trades. The bot includes advanced risk management, dynamic position sizing, and hedge logic to minimize downside risk while targeting stable and consistent profitability.
 
