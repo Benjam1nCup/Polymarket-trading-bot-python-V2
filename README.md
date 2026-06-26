@@ -350,6 +350,8 @@ This project is part of a larger ecosystem explaining how a **Polymarket trading
 - 🧠 **Polymarket trading bot strategy & system design (Medium)**  
   Deep dive into arbitrage logic, market selection, and bot architecture.
 
+    - [Beyond Prediction: Designing a Market-Neutral Trading System for Polymarket in 2026](https://medium.com/@benjamincup/beyond-prediction-designing-a-market-neutral-trading-system-for-polymarket-in-2026-3f50bd2dd290)
+
     - [How I Built a Profitable Polymarket Trading bot in Python: Strategy, Risk Management, and Real-World Lessons](https://medium.com/@benjamin.bigdev/how-i-built-a-profitable-polymarket-trading-bot-in-python-strategy-risk-management-and-2499711a2f23)
 
     - [What 4 Weeks of Running a Polymarket Momentum Bot Taught Me About Prediction Markets](https://medium.com/@benjamin.bigdev/polymarektwhat-4-weeks-of-running-a-polymarket-momentum-bot-taught-me-about-prediction-markets-0f350bb3fc00?postPublishedType=repub)
@@ -392,6 +394,8 @@ This project is part of a larger ecosystem explaining how a **Polymarket trading
   
 - ⚙️ **How to build a Polymarket trading bot (Dev.to)**  
   Full developer guide covering setup, API integration, and execution flow.
+
+    - [Polymarket Trading Bot: Building an Inventory-Balanced Ladder Strategy with Python in 2026](https://dev.to/benjamin_cup/polymarket-trading-bot-building-an-inventory-balanced-ladder-strategy-with-python-in-2026-53fh)
 
     - [Polymarket Trading bot: Building a Professional Prediction Market Trading System in Python](https://dev.to/benjamin_cup/polymarket-trading-bot-building-a-professional-prediction-market-trading-system-in-python-4fjd)
 
