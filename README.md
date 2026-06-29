@@ -395,6 +395,8 @@ This project is part of a larger ecosystem explaining how a **Polymarket trading
 - ⚙️ **How to build a Polymarket trading bot (Dev.to)**  
   Full developer guide covering setup, API integration, and execution flow.
 
+    - [How Quant Traders Extracted Nearly $40M in Risk-Free Arbitrage from Polymarket](https://dev.to/benjamin_cup/how-quant-traders-extracted-nearly-40m-in-risk-free-arbitrage-from-polymarket-33o8)
+
     - [Polymarket Trading Bot: Building an Inventory-Balanced Ladder Strategy with Python in 2026](https://dev.to/benjamin_cup/polymarket-trading-bot-building-an-inventory-balanced-ladder-strategy-with-python-in-2026-53fh)
 
     - [Polymarket Trading bot: Building a Professional Prediction Market Trading System in Python](https://dev.to/benjamin_cup/polymarket-trading-bot-building-a-professional-prediction-market-trading-system-in-python-4fjd)
