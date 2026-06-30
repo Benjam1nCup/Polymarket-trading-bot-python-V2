@@ -65,7 +65,7 @@ DEV Community:
 [https://dev.to/benjamin_cup](https://dev.to/benjamin_cup)
 
 Medium:
-[https://medium.com/@benjamin.bigdev](https://medium.com/@benjamin.bigdev)
+[https://benjamincup.medium.com](https://benjamincup.medium.com/)
 
 Substack:
 [https://substack.com/@benjamincup](https://substack.com/@benjamincup)
@@ -82,11 +82,6 @@ If you're interested in collaboration or have any questions or want buy profitab
 | **Telegram** | [@BenjaminCup](https://t.me/BenjaminCup) |
 | **X (Twitter)** | [@benjaminccup](https://x.com/benjaminccup) |
 
-And this is my polymarket Account 
-
-[https://polymarket.com/@maksim42](https://polymarket.com/@maksim42)
-
-[https://polymarket.com/@dava1414](https://polymarket.com/@dava1414)
 
 If you'd like, I can show you a profitable bot in action through a meeting or you can run Telegram Bot Demo Version.
 
