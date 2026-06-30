@@ -2,7 +2,7 @@
 
 
 
-An open-source and Strong Strategy collection of Polymarket trading bot and arbitrage bot in Python for high-performance automated trading on polymarket crypto 5min markets.
+An open-source and Strong Strategy collection of Polymarket trading bot and Polymarket arbitrage bot in Python for high-performance automated trading on polymarket crypto 5min markets.
 
 <img width="1537" height="1023" alt="Polymarket benjamincup bot dashboard" src="https://github.com/user-attachments/assets/bcf5015e-c001-4161-ba0e-21195bc1dba2" />
 
