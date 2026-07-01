@@ -85,7 +85,14 @@ If you're interested in collaboration or have any questions or want buy profitab
 
 If you'd like, I can show you a profitable bot in action through a meeting or you can run Telegram Bot Demo Version.
 
+This is my Public Account.
 
+<img width="1008" height="238" alt="image" src="https://github.com/user-attachments/assets/61a7c1f2-26bf-458a-b180-b8649dde33a6" />
+
+
+[https://polymarket.com/@deltavibes](https://polymarket.com/@deltavibes)
+
+You can check the bot's pnl with this account.
 
 ## 1. Polymarket Endcycle Sniper bot (Introduction)
 
