@@ -347,6 +347,17 @@ This repository contains multiple automated trading strategies for Polymarket pr
 <img width="1536" height="1024" alt="Single-Based-polymarket-trading-bot" src="https://github.com/user-attachments/assets/f2b97e74-6abc-4197-b39f-93057fb82be7" />
 
 
+<img width="1536" height="1024" alt="polymarket 15min edge" src="https://github.com/user-attachments/assets/bd1ab902-625c-484a-94a2-7dca01bf9033" />
+
+<img width="1536" height="1024" alt="Polymarket Arbitrage Trading Bot" src="https://github.com/user-attachments/assets/da6fe2aa-7d8f-4468-9c2e-06fc5937d4e0" />
+
+<img width="1536" height="1024" alt="Polymarket trading bot market sleep" src="https://github.com/user-attachments/assets/21106581-8e39-4c07-8729-7473f5c23596" />
+
+<img width="1536" height="1024" alt="4min edge" src="https://github.com/user-attachments/assets/f9f8cfa8-a859-44a9-9c54-91d0b7fdc6b3" />
+
+
+
+
 ---
 ## 📚 Polymarket Trading Bot – Articles & Technical Guides
 
@@ -354,6 +365,9 @@ This project is part of a larger ecosystem explaining how a **Polymarket trading
 
 - 🧠 **Polymarket trading bot strategy & system design (Medium)**  
   Deep dive into arbitrage logic, market selection, and bot architecture.
+
+    - [Building a 15-Minute Trading Bot for Polymarket’s BTC UP/DOWN Market
+](https://benjamincup.medium.com/building-a-15-minute-trading-bot-for-polymarkets-btc-up-down-market-d24bb50aabf2?postPublishedType=initial)
 
     - [Beyond Prediction: Designing a Market-Neutral Trading System for Polymarket in 2026](https://medium.com/@benjamincup/beyond-prediction-designing-a-market-neutral-trading-system-for-polymarket-in-2026-3f50bd2dd290)
 
@@ -399,6 +413,8 @@ This project is part of a larger ecosystem explaining how a **Polymarket trading
   
 - ⚙️ **How to build a Polymarket trading bot (Dev.to)**  
   Full developer guide covering setup, API integration, and execution flow.
+
+    - [I Thought Crypto Would Explode After Going Quiet. The Data Proved Me Wrong. (Building a Polymarket Trading Bot)](https://dev.to/benjamin_cup/i-thought-crypto-would-explode-after-going-quiet-the-data-proved-me-wrong-building-a-polymarket-4gdi)
 
     - [How Quant Traders Extracted Nearly $40M in Risk-Free Arbitrage from Polymarket](https://dev.to/benjamin_cup/how-quant-traders-extracted-nearly-40m-in-risk-free-arbitrage-from-polymarket-33o8)
 
