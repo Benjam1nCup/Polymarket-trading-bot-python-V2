@@ -29,7 +29,10 @@ Designed for arbitrage, directional strategies, and ultra-short-term markets (in
 
 ## Demo Video
 
-[https://www.youtube.com/watch?v=Yp3gpNXF2RA](https://www.youtube.com/watch?v=Yp3gpNXF2RA)
+
+[<img width="628" height="416" alt="Polymarket Benjamin trading Bot video" src="https://github.com/user-attachments/assets/21826595-774e-4ed6-84d6-b421a19aff5e" />
+](https://www.youtube.com/watch?v=Yp3gpNXF2RA)
+
 
 
 ## Documentation
