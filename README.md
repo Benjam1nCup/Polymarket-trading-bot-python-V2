@@ -366,6 +366,12 @@ This project is part of a larger ecosystem explaining how a **Polymarket trading
 - 🧠 **Polymarket trading bot strategy & system design (Medium)**  
   Deep dive into arbitrage logic, market selection, and bot architecture.
 
+    - [How to make the Polymarket Trading Bot for the $1,000+ a Day](https://benjamincup.medium.com/how-to-make-the-polymarket-trading-bot-for-the-1-000-a-day-5876755c32e0)
+
+    - [How to make the Polymarket Trading Bot : VWAP + Polymarket arbitrage = $135k / year (full build + code)](https://benjamincup.medium.com/how-to-make-the-polymarket-trading-bot-vwap-polymarket-arbitrage-135k-year-full-build-376fa266db34)
+
+    - [How to make the polymark trading bot : STOP losing Money on The 5-min BTC market.](https://benjamincup.medium.com/how-to-make-the-polymark-trading-bot-stop-losing-money-on-the-5-min-btc-market-2346b508693c)
+
     - [Building a 15-Minute Trading Bot for Polymarket’s BTC UP/DOWN Market
 ](https://benjamincup.medium.com/building-a-15-minute-trading-bot-for-polymarkets-btc-up-down-market-d24bb50aabf2?postPublishedType=initial)
 
@@ -413,6 +419,12 @@ This project is part of a larger ecosystem explaining how a **Polymarket trading
   
 - ⚙️ **How to build a Polymarket trading bot (Dev.to)**  
   Full developer guide covering setup, API integration, and execution flow.
+
+    - [What I Learned After Running a Live 5-Minute Polymarket Crypto Trading Bot](https://dev.to/benjamin_cup/what-i-learned-after-running-a-live-5-minute-polymarket-crypto-trading-bot-20ea)
+
+    - [How Hedge Funds Use Prediction Market Data to Extract Alpha (A Complete Roadmap)](https://dev.to/benjamin_cup/how-hedge-funds-use-prediction-market-data-to-extract-alpha-a-complete-roadmap-10hh)
+
+    - [I Thought Crypto Would Explode After Going Quiet. The Data Proved Me Wrong. (Building a Polymarket Trading Bot)](https://dev.to/benjamin_cup/i-thought-crypto-would-explode-after-going-quiet-the-data-proved-me-wrong-building-a-polymarket-4gdi)
 
     - [I Thought Crypto Would Explode After Going Quiet. The Data Proved Me Wrong. (Building a Polymarket Trading Bot)](https://dev.to/benjamin_cup/i-thought-crypto-would-explode-after-going-quiet-the-data-proved-me-wrong-building-a-polymarket-4gdi)
 
