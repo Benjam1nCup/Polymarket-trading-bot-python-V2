@@ -82,7 +82,7 @@ If you're interested in collaboration or have any questions or want buy profitab
 | Channel | Link |
 |---------|------|
 | **Email** | benjamin.bigdev@gmail.com |
-| **Telegram** | [@BenjaminCup](https://t.me/BenjaminCup) |
+| **Telegram** | [@BenjaminCup](https://telegram.me/BenjaminCup) |
 | **X (Twitter)** | [@benjaminccup](https://x.com/benjaminccup) |
 
 
