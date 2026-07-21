@@ -370,6 +370,8 @@ This project is part of a larger ecosystem explaining how a **Polymarket trading
 - 🧠 **Polymarket trading bot strategy & system design (Medium)**  
   Deep dive into arbitrage logic, market selection, and bot architecture.
 
+    - [Beyond Sniping: What Order Book Liquidity Reveals About Polymarket’s BTC 5-Minute Markets
+](https://medium.com/@benjamincup/beyond-sniping-what-order-book-liquidity-reveals-about-polymarkets-btc-5-minute-markets-a2873e59dde1)
     - [How to make the Polymarket Trading Bot for the $1,000+ a Day](https://benjamincup.medium.com/how-to-make-the-polymarket-trading-bot-for-the-1-000-a-day-5876755c32e0)
 
     - [How to make the Polymarket Trading Bot : VWAP + Polymarket arbitrage = $135k / year (full build + code)](https://benjamincup.medium.com/how-to-make-the-polymarket-trading-bot-vwap-polymarket-arbitrage-135k-year-full-build-376fa266db34)
@@ -423,6 +425,8 @@ This project is part of a larger ecosystem explaining how a **Polymarket trading
   
 - ⚙️ **How to build a Polymarket trading bot (Dev.to)**  
   Full developer guide covering setup, API integration, and execution flow.
+
+    - [Building a BTC Liquidity Momentum Bot for Polymarket with Python](https://dev.to/benjamin_cup/building-a-btc-liquidity-momentum-bot-for-polymarket-with-python-1m58)
 
     - [What I Learned After Running a Live 5-Minute Polymarket Crypto Trading Bot](https://dev.to/benjamin_cup/what-i-learned-after-running-a-live-5-minute-polymarket-crypto-trading-bot-20ea)
 
