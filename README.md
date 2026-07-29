@@ -95,9 +95,6 @@ This is my Public Account.
 <img width="705" height="166" alt="benjamincup-8" src="https://github.com/user-attachments/assets/a272e6c9-478d-445a-90bb-6b2d0d29245f" />
 
 
-[https://polymarket.com/@deltavibes](https://polymarket.com/@deltavibes)
-
-[https://polymarket.com/@benjamincup-8](https://polymarket.com/@benjamincup-8)
 
 You can check the bot's pnl with this account.
 
