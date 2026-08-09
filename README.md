@@ -1,17 +1,17 @@
-# Polymarket Trading Bot | Polymarket Arbitrage Bot
+# Polymarket Trading Bot | Polymarket Arbitrage Bot | Polymarket TWAP Trading Bot
 
 
 
-An open-source and Strong Strategy collection of Polymarket trading bot and Polymarket arbitrage bot in Python for high-performance automated trading on polymarket crypto 5min markets.
+An open-source and Strong Strategy collection of Polymarket trading bot and Polymarket arbitrage bot and Polymarket TWAP trading bot in Python for high-performance automated trading on polymarket crypto 5min and 15min markets.
 
-<img width="1537" height="1023" alt="Polymarket benjamincup bot dashboard" src="https://github.com/user-attachments/assets/bcf5015e-c001-4161-ba0e-21195bc1dba2" />
+<img width="1536" height="1024" alt="Polymarket-benjamincup-bot-dashboard" src="https://github.com/user-attachments/assets/71b65c58-00d2-4bbe-8b6d-8ed6fc9812e4" />
 
 
 ## Features
 
 - Explosive growth of Polymarket with surging trading volume and new short-term markets
   
-- Increasing dominance of automated bots and AI in 5-minute crypto prediction markets
+- Increasing dominance of automated bots and AI in 5-minute and 15-minute crypto prediction markets
   
 - Higher profitability potential through advanced arbitrage and market-making strategies
   
@@ -25,7 +25,7 @@ An open-source and Strong Strategy collection of Polymarket trading bot and Poly
 
 ## Included Trading Bots
 
-Designed for arbitrage, directional strategies, and ultra-short-term markets (including 5-minute rounds), this bot framework provides a robust foundation for building and scaling automated trading strategies on Polymarket .
+Designed for arbitrage, directional strategies, and ultra-short-term markets (including 5-minute and 15-minute rounds), this bot framework provides a robust foundation for building and scaling automated trading strategies on Polymarket .
 
 ## Demo Video
 
