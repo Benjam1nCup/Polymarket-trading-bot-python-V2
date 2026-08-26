@@ -459,66 +459,7 @@ This repository contains multiple automated trading strategies for Polymarket pr
 
 This project is part of a larger ecosystem explaining how a **Polymarket trading bot** works, including strategy, architecture, and implementation.
 
-- 🧠 **Polymarket trading bot strategy & system design (Medium)**  
-  Deep dive into arbitrage logic, market selection, and bot architecture.
-
-    - [Trading the Spot-to-TWAP Lag in Polymarket Crypto Markets
-](https://medium.com/@benjamincup/trading-the-spot-to-twap-lag-in-polymarket-crypto-markets-da8862fd0e4c)
-    - [Building a Polymarket TWAP Momentum Trading Bot for 5-Minute Crypto Markets](https://medium.com/@benjamincup/building-a-polymarket-twap-momentum-trading-bot-for-5-minute-crypto-markets-cdaacb6b4d1d)
-
-    - [Beyond Sniping: What Order Book Liquidity Reveals About Polymarket’s BTC 5-Minute Markets
-](https://medium.com/@benjamincup/beyond-sniping-what-order-book-liquidity-reveals-about-polymarkets-btc-5-minute-markets-a2873e59dde1)
-    - [How to make the Polymarket Trading Bot for the $1,000+ a Day](https://benjamincup.medium.com/how-to-make-the-polymarket-trading-bot-for-the-1-000-a-day-5876755c32e0)
-
-    - [How to make the Polymarket Trading Bot : VWAP + Polymarket arbitrage = $135k / year (full build + code)](https://benjamincup.medium.com/how-to-make-the-polymarket-trading-bot-vwap-polymarket-arbitrage-135k-year-full-build-376fa266db34)
-
-    - [How to make the polymark trading bot : STOP losing Money on The 5-min BTC market.](https://benjamincup.medium.com/how-to-make-the-polymark-trading-bot-stop-losing-money-on-the-5-min-btc-market-2346b508693c)
-
-    - [Building a 15-Minute Trading Bot for Polymarket’s BTC UP/DOWN Market
-](https://benjamincup.medium.com/building-a-15-minute-trading-bot-for-polymarkets-btc-up-down-market-d24bb50aabf2?postPublishedType=initial)
-
-    - [Beyond Prediction: Designing a Market-Neutral Trading System for Polymarket in 2026](https://medium.com/@benjamincup/beyond-prediction-designing-a-market-neutral-trading-system-for-polymarket-in-2026-3f50bd2dd290)
-
-    - [How I Built a Profitable Polymarket Trading bot in Python: Strategy, Risk Management, and Real-World Lessons](https://medium.com/@benjamin.bigdev/how-i-built-a-profitable-polymarket-trading-bot-in-python-strategy-risk-management-and-2499711a2f23)
-
-    - [What 4 Weeks of Running a Polymarket Momentum Bot Taught Me About Prediction Markets](https://medium.com/@benjamin.bigdev/polymarektwhat-4-weeks-of-running-a-polymarket-momentum-bot-taught-me-about-prediction-markets-0f350bb3fc00?postPublishedType=repub)
-  
-    - [Polymarket Beginner’s Guide: Get Started in 3 Easy Steps and Follow the “Smart Money”](https://medium.com/@benjamin.bigdev/polymarket-beginners-guide-get-started-in-3-easy-steps-and-follow-the-smart-money-2d86bf9591ab)
-    
-    - [Polymarket Trading bot: Building a 5-Minute BTC Market Momentum Strategy with Python](https://medium.com/@benjamin.bigdev/polymarket-trading-bot-building-a-5-minute-btc-market-momentum-strategy-with-python-7a77c7a4b0d8)
-    
-    - [Unlock Risk-Free Profits on Polymarket: The Secret Power of Complement Arbitrage](https://medium.com/@benjamin.bigdev/unlock-risk-free-profits-on-polymarket-the-secret-power-of-complement-arbitrage-4de0cf2e6ffb)
-
-    - [Unlock Hidden Edges on Polymarket: Imbalance Arbitrage — Buy the Cheap Side, No Matter Which](https://medium.com/@benjamin.bigdev/unlock-hidden-edges-on-polymarket-imbalance-arbitrage-buy-the-cheap-side-no-matter-which-55194406cb0a)
  
-    - [Polymarket Trading Bot : Multi-Crypto Polymarket Strategies](https://medium.com/@benjamin.bigdev/polymarket-trading-bot-multi-crypto-polymarket-strategies-1aafa574b7c3)
- 
-    - [The Polymarket 5-Minute Crypto Bot: Grinding High-Probability Edges for Consistent Profits](https://medium.com/@benjamin.bigdev/the-polymarket-5-minute-crypto-bot-grinding-high-probability-edges-for-consistent-profits-578ec553f1a2)
- 
-    - [The Ultimate Guide to Building a Profitable 5-Minute Polymarket Crypto Trading Bot (March 2026 Edition)](https://medium.com/@benjamin.bigdev/the-ultimate-guide-to-building-a-profitable-5-minute-polymarket-crypto-trading-bot-march-2026-5198c825440b)
- 
-    - [Polymarket Trading Bot: Crypto Market Strategies and Inflection Point Analysis](https://medium.com/@benjamin.bigdev/polymarket-trading-bot-crypto-market-strategies-and-inflection-point-analysis-5eb359ab3007)
- 
-    - [The Top Strategy for Polymarket Trading in Crypto Markets (2026 Edition)](https://medium.com/@benjamin.bigdev/the-top-strategy-for-polymarket-trading-in-crypto-markets-2026-edition-5056f21a2711)
- 
-    - [7 Arbitrage Strategies That Consistently Work on Prediction Markets Like Polymarket](https://medium.com/@benjamin.bigdev/7-arbitrage-strategies-that-consistently-work-on-prediction-markets-like-polymarket-18947919a43b)
- 
-    - [Polymarket trading bot : Mountain of Dual-side arbitrage small profit](https://medium.com/@benjamin.bigdev/polymarket-trading-bot-mountain-of-dual-side-arbitrage-small-profit-2a88db0e83c3)
- 
-    - [Risk Management & Hedging in a Polymarket Dual-Side Arbitrage Bot](https://medium.com/@benjamin.bigdev/risk-management-hedging-in-a-polymarket-dual-side-arbitrage-bot-ddad6287af83)
- 
-    - [Cross-Exchange Arbitrage Between Prediction Markets](https://medium.com/@benjamin.bigdev/cross-exchange-arbitrage-between-prediction-markets-cf423b8da279)
- 
-    - [Designing a 5-Minute Crypto Prediction Bot on Polymarket Using Cascade Trailing Logic](https://medium.com/@benjamin.bigdev/designing-a-5-minute-crypto-prediction-bot-on-polymarket-using-cascade-trailing-logic-6915e0e235b3)
- 
-    - [Latency Arbitrage in 15-Minute Crypto Markets: Building a Polymarket Trading Edge (2026)](https://medium.com/@benjamin.bigdev/latency-arbitrage-in-15-minute-crypto-markets-building-a-polymarket-trading-edge-2026-b6529832d789)
- 
-    - [Building a Polymarket Trading Bot Based on Bitcoin-Altcoin Correlation](https://medium.com/@benjamin.bigdev/building-a-polymarket-trading-bot-based-on-bitcoin-altcoin-correlation-59948625e954)
- 
-    - [Polymarket Trading Bot -special timezone Bot](https://medium.com/@benjamin.bigdev/polymarket-trading-bot-special-timezone-bot-b7fde896a03f)
- 
-    - [Polymarket Trading Bot Strategy Story](https://medium.com/@benjamin.bigdev/polymarket-trading-bot-strategy-story-bd2abc253207)
-  
 - ⚙️ **How to build a Polymarket trading bot (Dev.to)**  
   Full developer guide covering setup, API integration, and execution flow.
 
