@@ -7,6 +7,15 @@ An open-source and Strong Strategy collection of Polymarket trading bot and Poly
 <img width="1536" height="1024" alt="Polymarket-benjamincup-bot-dashboard" src="https://github.com/user-attachments/assets/71b65c58-00d2-4bbe-8b6d-8ed6fc9812e4" />
 
 
+This repository is primarily intended for educational and research purposes. It includes strategy concepts, implementation approaches, and selected performance screenshots to help developers understand how different automated trading strategies can be designed and tested.
+
+The repository does not provide a complete production-ready trading bot source code. Instead, it provides strategy descriptions and research materials that you can use as a foundation for developing your own system.
+
+If you are interested in building a Polymarket Trading Bot, you can follow my tutorials and use the concepts in this repository to develop your own implementation.
+
+For users who prefer a ready-to-deploy solution or require custom strategy development, commercial bot development and customization are also available.
+
+
 ## Features
 
 - Explosive growth of Polymarket with surging trading volume and new short-term markets
@@ -462,6 +471,15 @@ This project is part of a larger ecosystem explaining how a **Polymarket trading
  
 - ⚙️ **How to build a Polymarket trading bot (Dev.to)**  
   Full developer guide covering setup, API integration, and execution flow.
+
+
+    - [How to make the Polymarket TWAP Reversal Trading Bot: Detecting Short-Term Reversal Opportunities](https://dev.to/benjamin_cup/how-to-make-the-polymarket-twap-reversal-trading-bot-detecting-short-term-reversal-opportunities-2p89)
+
+    - [Building a Polymarket Trading Bot: Arbitrage + Momentum Strategy (Twap-60s Available)](https://dev.to/benjamin_cup/building-a-polymarket-trading-bot-arbitrage-momentum-strategy-twap-60s-available-4b1a)
+
+    - [Building a Probability-Driven Polymarket TWAP Trading Bot](https://dev.to/benjamin_cup/building-a-probability-driven-polymarket-twap-trading-bot-mij)
+
+    - [How to Build a Polymarket TWAP 99 Sniper Bot](https://dev.to/benjamin_cup/how-to-build-a-polymarket-twap-99-sniper-bot-3fld)
 
     - [Building a Polymarket TWAP Momentum Trading Bot for 5-Minute Crypto Markets](https://dev.to/benjamin_cup/building-a-polymarket-twap-momentum-trading-bot-for-5-minute-crypto-markets-2efo)
 
