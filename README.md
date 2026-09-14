@@ -469,9 +469,11 @@ This repository contains multiple automated trading strategies for Polymarket pr
 This project is part of a larger ecosystem explaining how a **Polymarket trading bot** works, including strategy, architecture, and implementation.
 
  
-- ⚙️ **How to build a Polymarket trading bot (Dev.to)**  
+- ⚙️ **How to build a Polymarket trading bot **  
   Full developer guide covering setup, API integration, and execution flow.
 
+
+    - [How to Build a Polymarket Momentum Arbitrage Bot Using Coinbase Price Feeds](https://benjamincup.medium.com/how-to-build-a-polymarket-momentum-arbitrage-bot-using-coinbase-price-feeds-20e294e37cb8)
 
     - [How to make the Polymarket TWAP Reversal Trading Bot: Detecting Short-Term Reversal Opportunities](https://dev.to/benjamin_cup/how-to-make-the-polymarket-twap-reversal-trading-bot-detecting-short-term-reversal-opportunities-2p89)
 
